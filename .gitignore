@@ -1,0 +1,14 @@
+
+# Java compiled files
+*.class
+target/
+
+# Eclipse settings
+.settings/
+.project
+.classpath
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
